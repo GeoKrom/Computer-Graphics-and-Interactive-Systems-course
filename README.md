@@ -1,4 +1,4 @@
-# Computer-Graphics-and-Interactive-Systems-course
+# Computer-Graphics-with-Unity3D
 Semester project for course CSE/MYY702 - Computer Graphics and Interactive Systems
 
 # Unity Project
