@@ -10,5 +10,6 @@ The player is in first-person view with his shape to be a capsule. The scripts o
 The link of the project is: https://drive.google.com/drive/folders/19NwZq1ttXkezFhBYFIihFhHowDJyKVWE?usp=sharing
 
 # Authors 
-[Panagiotis Ntounetas]()
+[Panagiotis Ntounetas](https://github.com/panagiotisd)
+
 [Georgios Krommydas](https://github.com/GeoKrom)
