@@ -8,3 +8,7 @@ inside the cube and can collide with other objects. The objects also have bounci
 The player is in first-person view with his shape to be a capsule. The scripts of the project were made with the programming language [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 
 The link of the project is: https://drive.google.com/drive/folders/19NwZq1ttXkezFhBYFIihFhHowDJyKVWE?usp=sharing
+
+# Authors 
+[Panagiotis Ntounetas]()
+[Georgios Krommydas](https://github.com/GeoKrom)
