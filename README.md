@@ -1,5 +1,5 @@
 # Computer-Graphics-with-Unity3D
-Semester project for course CSE/MYY702 - Computer Graphics and Interactive Systems
+Second semester project for course CSE/MYY702 - Computer Graphics and Interactive Systems, Department of Computer Science and Engineering
 
 # Unity Project
 This project is based on [Unity3D](https://unity.com/) with a simple scene of a cube.
